@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Form Design</string>
+    <string name="registration_header">Please help us to know who you are.</string>
+    <string name="label_username">Username</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_password">Password</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+    <string name="label_remember_me">Remember me</string>
+    <string name="label_want_volunteer">Want to be a volunteer: </string>
+    <string name="button_date_of_birth">Date of birth (02/10/2022)</string>
+    <string name="is_resident">Are you a resident of Bangladesh ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submit">Submit</string>
+</resources>

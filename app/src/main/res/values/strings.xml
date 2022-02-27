@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Form Design</string>
     <string name="registration_header">Please help us to know who you are.</string>
+    <string name="registration_header_second">Let us to know your location.</string>
     <string name="label_username">Username</string>
     <string name="label_email">Email</string>
     <string name="label_phone">Phone</string>
@@ -15,4 +16,16 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="submit">Submit</string>
+    <string name="next">Next</string>
+
+    <string-array name="divisions_array">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+        <item>Mymensing</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Rangpur</item>
+        <item>Barisal</item>
+    </string-array>
 </resources>
